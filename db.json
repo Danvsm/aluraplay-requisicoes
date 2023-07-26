@@ -71,18 +71,19 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 11
+      "titulo": "Como rankear bem no Google?",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/PfGyzrLGqZ8",
+      "imagem": "https://img.freepik.com/fotos-gratis/beagles-filhotes-procurando-algo_1150-18193.jpg",
+      "id": 13
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     }
+    
   ]
 }
