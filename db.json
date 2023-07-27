@@ -83,7 +83,13 @@
       "descricao": "3 mil visualizações",
       "url": "https://www.youtube.com/embed/y8FeZMv37WU",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "Inglês",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/X5TdMsc4YCg?list=PL41dMNqXopt85RhRgFp_jdoI5Bz7DUG-c",
+      "imagem": "https://img.freepik.com/fotos-gratis/imagem-aproximada-da-cabeca-de-um-lindo-leao_181624-35855.jpg?w=2000",
+      "id": 14
     }
-    
   ]
 }
